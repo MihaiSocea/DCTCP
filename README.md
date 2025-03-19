@@ -21,9 +21,3 @@ Traditional TCP struggles to efficiently handle network congestion in data cente
 
 ## 📷 Visual Demonstration  
 📌 The included graphs illustrate that **DCTCP achieves full throughput while occupying minimal buffer space**, unlike traditional TCP.  
-
-## 🏗 Installation & Usage  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/MihaiSocea/DCTCP.git
-   cd DCTCP
